@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
 
+# No administrar estos archivos
+.classpath
+.project
+./target
+
 # Log file
 *.log
 
